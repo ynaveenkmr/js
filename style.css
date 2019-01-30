@@ -1,0 +1,32 @@
+*{
+padding:0px;
+margin:0px;
+}
+#reg{
+margin-left:20%;
+margin-right:20%;
+margin-top:2%;
+background-color:black;
+color:white;
+text-align:center;
+}
+.space{
+	padding:10px;
+	margin:10px;
+	
+}
+#nameTR{
+	border-collapse:collapse;
+	width:100%;
+}
+#nameTR td,th{
+	text-align:left;
+	border:1px solid #dddddd;
+	color:white;
+}
+#nameTR button{
+	width:45%;
+	margin:3px;
+	padding:4px;
+	
+}
